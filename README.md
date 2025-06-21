@@ -38,14 +38,9 @@ This project demonstrates Retrieval-Augmented Generation (RAG) using a Knowledge
 
 ## Usage
 
-1. **Run the main pipeline:**
+**Run the main pipeline:**
    ```sh
    python3 -m src.main
-   ```
-
-2. **Test Neo4j connection (optional):**
-   ```sh
-   python3 -m src.neo4j_test
    ```
 
 ## Requirements
